@@ -27,7 +27,8 @@ on the same data.
 | `pilot_baselines.py` | Baseline Evaluation on the 18-item Probe Set |
 | `cosem_acquire.py` | Stratified Sampling of CoSEM |
 | `cosem_finetune_pilot.ipynb` | Fine-Tuning of SingBERT |
-| `cosem_pilot_sample.csv` | The 100 stratified-sampled CoSEM utterances with author-assigned labels |
+| `cosem_main_pool.csv` | The CoSEM utterances intended for the Main Study|
+| `cosem_pilot_sample.csv` | The 100 CoSEM utterances with author-assigned labels for the Pilot Study |
 
 
 ## Conclusion
@@ -35,5 +36,5 @@ on the same data.
 In this proposal, we set out the rationale, pilot evidence, and six-month plan for a Singlish sentiment-analysis project grounded in fine-tuned transformer models.
 
 ## Conclusion
-- **CoSEM ** — Corpus of Singapore English Messages (Gonzales et al., 2021)
+- **CoSEM** — Corpus of Singapore English Messages (Gonzales et al., 2021)
 - **SingBERT** — pre-trained Singlish BERT (Lim, 2020), available on HuggingFace
