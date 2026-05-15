@@ -1,7 +1,7 @@
 # Reading Between the Lines: Improving Sentiment Analysis in Singlish with Fine-Tuned Transformer Models 🇸🇬💬
 
 <p align="center">
-  <img src="singlish-banner.jpg" alt="Singlish Sentiment">
+  <img src="singlish-banner.jpeg" alt="Singlish Sentiment">
 </p>
 
 ## Abstract
